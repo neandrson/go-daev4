@@ -3,9 +3,9 @@ package middleware
 import (
 	"fmt"
 
-	"github.com/evsedov/GoCalculator/orchestrator/utils"
 	"github.com/gofiber/fiber/v2"
 	"github.com/golang-jwt/jwt/v5"
+	"github.com/neandrson/go-daev4/orchestrator/utils"
 )
 
 func AuthenticateMiddleware(c *fiber.Ctx) error {
