@@ -1,9 +1,9 @@
 package app
 
 import (
-	"github.com/evsedov/GoCalculator/orchestrator/routes"
 	"github.com/gofiber/fiber/v2"
 	"github.com/gofiber/fiber/v2/middleware/cors"
+	"github.com/neandrson/go-daev4/orchestrator/routes"
 )
 
 type Orchestrator struct{}
