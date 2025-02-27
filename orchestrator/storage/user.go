@@ -3,7 +3,7 @@ package storage
 import (
 	"errors"
 
-	"github.com/evsedov/GoCalculator/orchestrator/entities"
+	"github.com/neandrson/go-daev4/orchestrator/entities"
 	"golang.org/x/crypto/bcrypt"
 )
 
