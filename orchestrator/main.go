@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/evsedov/GoCalculator/orchestrator/app"
+	"github.com/neandrson/go-daev4/orchestrator/app"
 )
 
 func main() {
