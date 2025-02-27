@@ -1,4 +1,4 @@
-module github.com/evsedov/GoCalculator/orchestrator
+module github.com/neandrson/go-daev4/orchestrator
 
 go 1.22
 
