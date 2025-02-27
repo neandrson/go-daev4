@@ -1,10 +1,10 @@
 package main
 
 import (
-	"github.com/evsedov/GoCalculator/web/routes"
 	"github.com/gofiber/fiber/v2"
 	"github.com/gofiber/fiber/v2/middleware/cors"
 	"github.com/gofiber/template/html/v2"
+	"github.com/neandrson/go-daev4/web/routes"
 )
 
 func main() {
