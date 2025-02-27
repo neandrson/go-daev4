@@ -1,4 +1,4 @@
-module github.com/evsedov/GoCalculator/web
+module github.com/neandrson/go-daev4/web
 
 go 1.22
 
