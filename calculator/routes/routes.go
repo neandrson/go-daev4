@@ -1,8 +1,8 @@
 package routes
 
 import (
-	"github.com/evsedov/GoCalculator/calculator/handlers"
 	"github.com/gofiber/fiber/v2"
+	"github.com/neandrson/go-daev4/calculator/handlers"
 )
 
 func SetupRoutesCalculator(app *fiber.App) {
