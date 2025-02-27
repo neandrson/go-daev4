@@ -1,6 +1,6 @@
 package calculateexpression
 
-import "github.com/evsedov/GoCalculator/orchestrator/entities"
+import "github.com/neandrson/go-daev4/orchestrator/entities"
 
 type (
 	Response struct {
