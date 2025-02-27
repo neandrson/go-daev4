@@ -3,8 +3,8 @@ package register
 import (
 	"fmt"
 
-	"github.com/evsedov/GoCalculator/orchestrator/entities"
 	"github.com/gofiber/fiber/v2"
+	"github.com/neandrson/go-daev4/orchestrator/entities"
 	"golang.org/x/crypto/bcrypt"
 )
 
