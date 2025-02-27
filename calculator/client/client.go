@@ -8,8 +8,8 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/evsedov/GoCalculator/calculator/utils"
 	"github.com/gofiber/fiber/v2"
+	"github.com/neandrson/go-daev4/calculator/utils"
 )
 
 type (
