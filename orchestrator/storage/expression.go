@@ -3,7 +3,7 @@ package storage
 import (
 	"encoding/json"
 
-	"github.com/evsedov/GoCalculator/orchestrator/entities"
+	"github.com/neandrson/go-daev4/orchestrator/entities"
 )
 
 func (s *storage) CreateNew(expression *entities.Expression) (err error) {
