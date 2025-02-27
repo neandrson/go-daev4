@@ -5,8 +5,8 @@ import (
 
 	"github.com/gofiber/fiber/v2"
 
-	"github.com/evsedov/GoCalculator/orchestrator/entities"
-	// "github.com/evsedov/GoCalculator/orchestrator/storage"
+	"github.com/neandrson/go-daev4/orchestrator/entities"
+	// "github.com/neandrson/go-daev4/orchestrator/storage"
 )
 
 type (
