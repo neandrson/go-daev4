@@ -2,14 +2,14 @@ package routes
 
 import (
 	// "github.com/evsedov/GoCalculator/orchestrator/handlers"
-	"github.com/evsedov/GoCalculator/orchestrator/middleware"
-	"github.com/evsedov/GoCalculator/orchestrator/storage"
-	"github.com/evsedov/GoCalculator/orchestrator/use_cases/calculate_expression"
-	"github.com/evsedov/GoCalculator/orchestrator/use_cases/create_expression"
-	"github.com/evsedov/GoCalculator/orchestrator/use_cases/login"
-	"github.com/evsedov/GoCalculator/orchestrator/use_cases/register"
-	updatecalculated "github.com/evsedov/GoCalculator/orchestrator/use_cases/update_calculated"
-	"github.com/evsedov/GoCalculator/orchestrator/use_cases/user_expressions"
+	"github.com/neandrson/go-daev4/orchestrator/middleware"
+	"github.com/neandrson/go-daev4/orchestrator/storage"
+	"github.com/neandrson/go-daev4/orchestrator/use_cases/calculate_expression"
+	"github.com/neandrson/go-daev4/orchestrator/use_cases/create_expression"
+	"github.com/neandrson/go-daev4/orchestrator/use_cases/login"
+	"github.com/neandrson/go-daev4/orchestrator/use_cases/register"
+	updatecalculated "github.com/neandrson/go-daev4/orchestrator/use_cases/update_calculated"
+	"github.com/neandrson/go-daev4/orchestrator/use_cases/user_expressions"
 	"github.com/gofiber/fiber/v2"
 )
 
