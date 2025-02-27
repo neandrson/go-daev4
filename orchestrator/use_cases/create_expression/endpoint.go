@@ -1,10 +1,10 @@
 package createexpression
 
 import (
-	"github.com/evsedov/GoCalculator/orchestrator/entities"
-	"github.com/evsedov/GoCalculator/orchestrator/utils"
 	"github.com/gofiber/fiber/v2"
 	"github.com/google/uuid"
+	"github.com/neandrson/go-daev4/orchestrator/entities"
+	"github.com/neandrson/go-daev4/orchestrator/utils"
 )
 
 func MakeHandler(s *Service) func(c *fiber.Ctx) error {
