@@ -5,8 +5,8 @@ import (
 	"log"
 	"os"
 
-	"github.com/evsedov/GoCalculator/orchestrator/entities"
 	"github.com/joho/godotenv"
+	"github.com/neandrson/go-daev4/orchestrator/entities"
 	"gorm.io/driver/postgres"
 	"gorm.io/gorm"
 	"gorm.io/gorm/logger"
