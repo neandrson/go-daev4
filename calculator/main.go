@@ -1,7 +1,7 @@
 package main
 
 import (
-	calculator "github.com/evsedov/GoCalculator/calculator/server"
+	calculator "github.com/neandrson/go-daev4/calculator/server"
 )
 
 func main() {
