@@ -1,8 +1,8 @@
 package calculator
 
 import (
-	"github.com/evsedov/GoCalculator/calculator/routes"
 	"github.com/gofiber/fiber/v2"
+	"github.com/neandrson/go-daev4/calculator/routes"
 	// "github.com/google/uuid"
 )
 
