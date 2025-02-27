@@ -3,9 +3,9 @@ package login
 import (
 	"time"
 
-	"github.com/evsedov/GoCalculator/orchestrator/entities"
-	"github.com/evsedov/GoCalculator/orchestrator/utils"
 	"github.com/golang-jwt/jwt/v5"
+	"github.com/neandrson/go-daev4/orchestrator/entities"
+	"github.com/neandrson/go-daev4/orchestrator/utils"
 )
 
 type (
